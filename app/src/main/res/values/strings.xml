@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Petagram</string>
+    <string name="Fecha_boton">Elige una fecha</string>
+    <string name="Nombre_boton">Nombre</string>
+    <string name="Telefono_boton">Teléfono</string>
+    <string name="Email_boton">e-mail</string>
+    <string name="Descripcion_boton">Descripción contacto</string>
+    <string name="Enviar_datos">Siguiente</string>
+
+</resources>
